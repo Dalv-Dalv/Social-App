@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social App\\",
+  "WorkspaceRootPath": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5E5D286-0841-4B4C-8A16-6215C05C2C1B}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social app\\social app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E5D286-0841-4B4C-8A16-6215C05C2C1B}|Social App\\Social App.csproj|solutionrelative:social app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E5D286-0841-4B4C-8A16-6215C05C2C1B}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social app\\social app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E5D286-0841-4B4C-8A16-6215C05C2C1B}|Social App\\Social App.csproj|solutionrelative:social app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|c:\\dalv\\school\\university\\classes\\semestrul3\\daw\\social-app\\social app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF312705-C5EE-6A85-16F1-4C24FFB19ECA}|Social App\\Social App.csproj|solutionrelative:social app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +58,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social App\\Social App\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Social App\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social App\\Social App\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Social App\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:25:24.46Z",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Social App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Social App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T13:40:50.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Social App\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Social App\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-18T13:40:43.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Social App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Social App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T13:34:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Social App\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Social App\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T13:34:45.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Social App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Social App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T13:34:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Social App\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Social App\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:25:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social App\\Social App\\Program.cs",
+              "DocumentMoniker": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Program.cs",
               "RelativeDocumentMoniker": "Social App\\Program.cs",
-              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social App\\Social App\\Program.cs",
+              "ToolTip": "C:\\Dalv\\School\\University\\Classes\\Semestrul3\\DAW\\Social-App\\Social App\\Program.cs",
               "RelativeToolTip": "Social App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T13:25:20.704Z",
               "EditorCaption": ""
